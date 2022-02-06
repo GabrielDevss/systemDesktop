@@ -1,0 +1,6 @@
+C:\Users\gabri\Desktop\Project\ERPSystem\ObjectTransfer\bin\Debug\ObjectTransfer.dll
+C:\Users\gabri\Desktop\Project\ERPSystem\ObjectTransfer\bin\Debug\ObjectTransfer.pdb
+C:\Users\gabri\Desktop\Project\ERPSystem\ObjectTransfer\obj\Debug\ObjectTransfer.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Project\ERPSystem\ObjectTransfer\obj\Debug\ObjectTransfer.dll
+C:\Users\gabri\Desktop\Project\ERPSystem\ObjectTransfer\obj\Debug\ObjectTransfer.pdb
+C:\Users\gabri\Desktop\Project\ERPSystem\ObjectTransfer\obj\Debug\ObjectTransfer.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\gabri\Desktop\Project\ERPSystem\AcessDatabase\bin\Debug\AcessDatabase.dll.config
+C:\Users\gabri\Desktop\Project\ERPSystem\AcessDatabase\bin\Debug\AcessDatabase.dll
+C:\Users\gabri\Desktop\Project\ERPSystem\AcessDatabase\bin\Debug\AcessDatabase.pdb
+C:\Users\gabri\Desktop\Project\ERPSystem\AcessDatabase\obj\Debug\AcessDatabase.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Project\ERPSystem\AcessDatabase\obj\Debug\AcessDatabase.dll
+C:\Users\gabri\Desktop\Project\ERPSystem\AcessDatabase\obj\Debug\AcessDatabase.pdb
